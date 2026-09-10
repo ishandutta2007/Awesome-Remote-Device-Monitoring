@@ -83,73 +83,73 @@ The open-source ecosystem offers immense flexibility, air-gapped data sovereignt
 
 *Sorted strictly descending by GitHub Star Count.*
 
-1. 🏠 **[Home Assistant Core](https://github.com/home-assistant/core)** [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers)  
+1. 🏠 **[Home Assistant Core](https://github.com/home-assistant/core)** [![GitHub_Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers)  
    The world's most popular open-source local home and device monitoring platform. Tracks thousands of IoT sensors, smart plugs, energy monitors, and gateways locally without cloud dependencies.
 
-2. 🔀 **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
+2. 🔀 **[Node-RED](https://github.com/node-red/node-red)** [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
    Flow-based visual low-code development tool for wiring together physical devices, industrial protocols, APIs, and online dashboard services via a browser-based flow editor.
 
-3. 📊 **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)  
+3. 📊 **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)  
    Premier enterprise open-source IoT platform for device management, telemetry data collection, processing, and interactive real-time visualization. Supports MQTT, HTTP, CoAP, and LwM2M protocols.
 
-4. ⚡ **[EMQX](https://github.com/emqx/emqx)** [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)  
+4. ⚡ **[EMQX](https://github.com/emqx/emqx)** [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)  
    Ultra-scalable open-source distributed MQTT broker written in Erlang. Scales to 100M+ concurrent IoT device connections with sub-millisecond latency, SQL rule engine, and data streaming.
 
-5. 💡 **[ESPHome](https://github.com/esphome/esphome)** [![GitHub stars](https://img.shields.io/github/stars/esphome/esphome?style=social&color=white)](https://github.com/esphome/esphome/stargazers)  
+5. 💡 **[ESPHome](https://github.com/esphome/esphome)** [![GitHub_Stars](https://img.shields.io/github/stars/esphome/esphome?style=social&color=white)](https://github.com/esphome/esphome/stargazers)  
    Declarative YAML-based firmware and remote monitoring system for ESP8266 and ESP32 microcontrollers. Enables continuous sensor telemetry reporting and remote OTA firmware updates.
 
-6. 📨 **[Eclipse Mosquitto](https://github.com/eclipse/mosquitto)** [![GitHub stars](https://img.shields.io/github/stars/eclipse/mosquitto?style=social&color=white)](https://github.com/eclipse/mosquitto/stargazers)  
+6. 📨 **[Eclipse Mosquitto](https://github.com/eclipse/mosquitto)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse/mosquitto?style=social&color=white)](https://github.com/eclipse/mosquitto/stargazers)  
    Lightweight, highly performant C-based open-source MQTT message broker implementing MQTT v5.0, v3.1.1, and v3.1. Perfect for constrained edge devices, Raspberry Pi nodes, and IoT gateways.
 
-7. 🪵 **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![GitHub stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)  
+7. 🪵 **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)  
    Fast and lightweight telemetry agent, log processor, and forwarder. Highly optimized for embedded Linux devices, edge nodes, and IoT gateways with minimal CPU and memory footprint.
 
-8. 🗄️ **[Apache IoTDB](https://github.com/apache/iotdb)** [![GitHub stars](https://img.shields.io/github/stars/apache/iotdb?style=social&color=white)](https://github.com/apache/iotdb/stargazers)  
+8. 🗄️ **[Apache IoTDB](https://github.com/apache/iotdb)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/iotdb?style=social&color=white)](https://github.com/apache/iotdb/stargazers)  
    High-performance native time-series database optimized for IoT remote device monitoring, massive industrial telemetry ingestion, edge-cloud sync, and compact storage.
 
-9. 📱 **[Blynk Library](https://github.com/blynkkk/blynk-library)** [![GitHub stars](https://img.shields.io/github/stars/blynkkk/blynk-library?style=social&color=white)](https://github.com/blynkkk/blynk-library/stargazers)  
+9. 📱 **[Blynk Library](https://github.com/blynkkk/blynk-library)** [![GitHub_Stars](https://img.shields.io/github/stars/blynkkk/blynk-library?style=social&color=white)](https://github.com/blynkkk/blynk-library/stargazers)  
    Official firmware library enabling over 400 microcontrollers (ESP32, ESP8266, Arduino, Particle, Raspberry Pi) to connect securely and report telemetry directly to dashboards and mobile devices.
 
-10. 🏎️ **[Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-zenoh/zenoh?style=social&color=white)](https://github.com/eclipse-zenoh/zenoh/stargazers)  
+10. 🏎️ **[Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-zenoh/zenoh?style=social&color=white)](https://github.com/eclipse-zenoh/zenoh/stargazers)  
     Zero-overhead pub/sub, distributed storage, and query protocol designed for edge robotics, autonomous vehicles, and ultra-constrained embedded networks.
 
-11. 🛡️ **[Magistrala (Mainflux)](https://github.com/absmach/magistrala)** [![GitHub stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers)  
+11. 🛡️ **[Magistrala (Mainflux)](https://github.com/absmach/magistrala)** [![GitHub_Stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers)  
     Modern, secure, open-source microservices IoT cloud platform written in Go. Features multi-protocol adapters (HTTP, MQTT, CoAP, WebSocket), device identity management, and fine-grained access control.
 
-12. 🚀 **[NanoMQ](https://github.com/emqx/nanomq)** [![GitHub stars](https://img.shields.io/github/stars/emqx/nanomq?style=social&color=white)](https://github.com/emqx/nanomq/stargazers)  
+12. 🚀 **[NanoMQ](https://github.com/emqx/nanomq)** [![GitHub_Stars](https://img.shields.io/github/stars/emqx/nanomq?style=social&color=white)](https://github.com/emqx/nanomq/stargazers)  
     Ultra-lightweight edge MQTT broker and messaging bus built in pure C with POSIX threads and NNG. Designed specifically for resource-constrained embedded gateways and edge industrial controllers.
 
-13. 🌉 **[ThingsBoard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway)** [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard-gateway?style=social&color=white)](https://github.com/thingsboard/thingsboard-gateway/stargazers)  
+13. 🌉 **[ThingsBoard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard-gateway?style=social&color=white)](https://github.com/thingsboard/thingsboard-gateway/stargazers)  
     Open-source Python modular gateway that integrates legacy and industrial protocols (Modbus RTU/TCP, OPC-UA, BACnet, BLE, CANbus, SNMP, and REST) with cloud IoT platforms.
 
-14. 🏙️ **[OpenRemote](https://github.com/openremote/openremote)** [![GitHub stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers)  
+14. 🏙️ **[OpenRemote](https://github.com/openremote/openremote)** [![GitHub_Stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers)  
     Full-stack 100% open-source IoT platform designed for smart city deployments, energy grid management, building asset monitoring, and geographic device fleet mapping.
 
-15. 🏭 **[EdgeX Foundry (EdgeX Go)](https://github.com/edgexfoundry/edgex-go)** [![GitHub stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers)  
+15. 🏭 **[EdgeX Foundry (EdgeX Go)](https://github.com/edgexfoundry/edgex-go)** [![GitHub_Stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers)  
     Linux Foundation vendor-neutral edge computing framework for industrial IoT. Provides dual-tier microservices for southbound sensor ingestion and northbound cloud streaming.
 
-16. 🦒 **[Kaa IoT](https://github.com/kaaproject/kaa)** [![GitHub stars](https://img.shields.io/github/stars/kaaproject/kaa?style=social&color=white)](https://github.com/kaaproject/kaa/stargazers)  
+16. 🦒 **[Kaa IoT](https://github.com/kaaproject/kaa)** [![GitHub_Stars](https://img.shields.io/github/stars/kaaproject/kaa?style=social&color=white)](https://github.com/kaaproject/kaa/stargazers)  
     Cloud-native open-source microservices IoT platform for device telemetry analytics, sensor payload visualization, multi-tenant hierarchy, and automated device credential management.
 
-17. 📦 **[open-balena](https://github.com/balena-io/open-balena)** [![GitHub stars](https://img.shields.io/github/stars/balena-io/open-balena?style=social&color=white)](https://github.com/balena-io/open-balena/stargazers)  
+17. 📦 **[open-balena](https://github.com/balena-io/open-balena)** [![GitHub_Stars](https://img.shields.io/github/stars/balena-io/open-balena?style=social&color=white)](https://github.com/balena-io/open-balena/stargazers)  
     Open-source platform to deploy, update, monitor, and manage fleets of connected Linux edge devices via containerized micro-applications and VPN tunneling.
 
-18. 🔄 **[Mender](https://github.com/mendersoftware/mender)** [![GitHub stars](https://img.shields.io/github/stars/mendersoftware/mender?style=social&color=white)](https://github.com/mendersoftware/mender/stargazers)  
+18. 🔄 **[Mender](https://github.com/mendersoftware/mender)** [![GitHub_Stars](https://img.shields.io/github/stars/mendersoftware/mender?style=social&color=white)](https://github.com/mendersoftware/mender/stargazers)  
     Open-source over-the-air (OTA) software and firmware update manager for connected Linux devices. Guarantees atomic dual-partition failover recovery and delta updates.
 
-19. 🐝 **[HiveMQ Community Edition](https://github.com/hivemq/hivemq-community-edition)** [![GitHub stars](https://img.shields.io/github/stars/hivemq/hivemq-community-edition?style=social&color=white)](https://github.com/hivemq/hivemq-community-edition/stargazers)  
+19. 🐝 **[HiveMQ Community Edition](https://github.com/hivemq/hivemq-community-edition)** [![GitHub_Stars](https://img.shields.io/github/stars/hivemq/hivemq-community-edition?style=social&color=white)](https://github.com/hivemq/hivemq-community-edition/stargazers)  
     Java-based open-source MQTT broker implementing MQTT 3.1.1 and 5.0 specifications, built for high-throughput enterprise messaging and event-driven device architectures.
 
-20. 📡 **[ChirpStack](https://github.com/chirpstack/chirpstack)** [![GitHub stars](https://img.shields.io/github/stars/chirpstack/chirpstack?style=social&color=white)](https://github.com/chirpstack/chirpstack/stargazers)  
+20. 📡 **[ChirpStack](https://github.com/chirpstack/chirpstack)** [![GitHub_Stars](https://img.shields.io/github/stars/chirpstack/chirpstack?style=social&color=white)](https://github.com/chirpstack/chirpstack/stargazers)  
     Open-source LoRaWAN Network Server stack modularly managing regional wireless sensor gateways, cryptographic session keys, deduplication, and payload forwarding.
 
-21. 👥 **[Eclipse Ditto](https://github.com/eclipse-ditto/ditto)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-ditto/ditto?style=social&color=white)](https://github.com/eclipse-ditto/ditto/stargazers)  
+21. 👥 **[Eclipse Ditto](https://github.com/eclipse-ditto/ditto)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-ditto/ditto?style=social&color=white)](https://github.com/eclipse-ditto/ditto/stargazers)  
     Industrial open-source digital twin framework providing state synchronization, digital shadow abstraction, access control, and unified JSON APIs for real-world devices.
 
-22. 🎯 **[Eclipse hawkBit](https://github.com/eclipse/hawkbit)** [![GitHub stars](https://img.shields.io/github/stars/eclipse/hawkbit?style=social&color=white)](https://github.com/eclipse/hawkbit/stargazers)  
+22. 🎯 **[Eclipse hawkBit](https://github.com/eclipse/hawkbit)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse/hawkbit?style=social&color=white)](https://github.com/eclipse/hawkbit/stargazers)  
     Back-end framework providing rollout management, campaign monitoring, and targeted deployment of software and firmware updates to resource-constrained IoT targets.
 
-23. 🎛️ **[Eclipse Kura](https://github.com/eclipse-kura/kura)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-kura/kura?style=social&color=white)](https://github.com/eclipse-kura/kura/stargazers)  
+23. 🎛️ **[Eclipse Kura](https://github.com/eclipse-kura/kura)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-kura/kura?style=social&color=white)](https://github.com/eclipse-kura/kura/stargazers)  
     OSGi-based application framework providing an edge computing container for M2M/IoT gateways, remote configuration, and field protocol translation.
 
 ---
@@ -215,7 +215,7 @@ We welcome contributions from IoT engineers, embedded developers, devops teams, 
    ```
 3. 📝 **Add your entry** in alphabetical or star-ranked order:
    - For SaaS: Include product name, official website, pricing starting tier, and exact free tier/trial limit.
-   - For Open-Source: Include repository link, star badge (`style=social&color=white`), and a concise factual description.
+   - For Open-Source: Include repository link, Stars_Badge (`style=social&color=white`), and a concise factual description.
 4. 🚀 **Commit and submit a Pull Request** with a brief summary of the project's relevance.
 
 ---
